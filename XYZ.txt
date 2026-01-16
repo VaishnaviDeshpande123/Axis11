@@ -1,0 +1,140 @@
+
+
+
+                   Power BI data
+
+1. Data Extraction [E]
+2. Data Transformation [T]
+ 
+   1. Power query Editor
+   2. data analysis Expressions [DAX]
+   3. Report / Dashboards
+
+-----------------------------------------------------------------
+ 2. Data Analysis Expressions [DAX]
+
+- 1. output 
+          
+      -> MEASURE                SINGLE VALUE
+      -> Calculated Column       COLUMN
+      -> CACULATED TABLE         TABLE
+
+
+- 2. CONTEXT 
+- 3. FUNCTIONS
+
+-----------------------------------------------------------------------------
+
+       SAMPLE DATASET : FINANCIALS
+
+    POWER BI 
+            
+           1. AGGREGATE FUNCTIONS 
+           MIN(), MAX(), SUM(), COUNT(), AVERAGE(), PRODUCT()
+       
+           1. DISPLAY TOTAL UNIT SOLD.
+2. DISPLAY MIN, MAX INSTANCES OF SALES . 
+
+3 . DISPLAY AVERAGE SALES 
+    COUNTRY 
+   YEAR WISE 
+  QUARTER WISE 
+ PRODUCT WISE 
+
+
+
+
+
+
+
+
+
+DAX EXPRESSIONS 
+
+1. DISPLAY TOTAL REVENUE.
+	2. CALULATE TOTAL COST.
+	3. TOTAL PROFIT.
+	4. COUNT TOTAL TRANSACTIONS.
+	5. CALCULATE TOTAL QUANTITY SOLD.
+	6. HIGHEST REVENUE.
+	7. LOWEST REVENUE.
+	8. COUNT DISTINCT CUSTOMERS.
+	9. AVERAGE PROFIT.
+	10. PROFIT MARGIN.   ( DIVIDE FUNCTION)
+
+4. FILTER FUNCTION
+ CALCULATE()
+  Q1 . ANALYZE
+      TOTAL SALES ,
+      TOTAL PROFIT , 
+     PROFIT MARGIN 
+FOR PRODUCT "VELO"
+
+
+
+
+
+
+
+
+   1. ANALYZE SALES OF PRODUCTS .
+      IF NO DISCOUNT IS OFFERED .
+              
+              TOTAL SALES    |   ALL   |  W/O DISCOUNT
+              TOTAL PROFIT   |   ALL   |  W/O DISCOUNT
+              ITEM SOLD      |   ALL   |  W/O DISCOUNT
+
+           A. PRODUCT : MOST SOLD | LEAST SOLD 
+           B. YEARWISE PRODUCT SOLD .
+           C. SEGMENT WISE  
+           D. COUNTRY WISE
+                    
+                      a.count of item sold 
+                      b. sales  
+                      c. profit
+                      d. %profit
+
+
+
+
+ ----------------------------------------------------------------------------------
+
+   2 . ANALYZE COUNTRY GERMANY . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DATASET  : SUPERSTORE DATASET 
+  1 . DISPLAY TOTAL SALES , PROFIT  FOR "FURNITURE " IN YEAR 2014 . 
+
+  2 . DISPLAY TOTAL SALES , PROFIT FOR YEAR 2016 , 2017
+
+  3 . DISPLAY TOTAL SALES , TOTAL PROFIT OF 
+      CATEGORY FURNITURE , TECHNOLOGY IN 2016 . 
+
+ 4 . DISPLAY TOTAL SALES , PROFIT , FOR THOSE ORDER 
+     WHERE QUANTITY SOLD IS  ABOVE MEDIAN .  
+        
+ 5. DISPLAY
+          CUSTOMER WISE 
+                   1. TOTAL QUANTITY 
+                   2. TOTAL SALES 
+                   3. TOTAL PROFIT 
+
+USE SUMMARIXZE

@@ -1,0 +1,24 @@
+Python is a high-level, interpreted, general-purpose programming language known for its readability and ease of use. It was created by Guido van Rossum and first released in 1991. The name "Python" was inspired by the British comedy group Monty Python. 
+Key characteristics and features of Python:
+Readability:
+Python's syntax is designed to be clear and concise, often resembling natural language, which makes it easy to learn and understand.
+Interpreted:
+Python code is executed line by line by an interpreter, eliminating the need for a separate compilation step. This speeds up the development process.
+High-level:
+Python abstracts away low-level details of computer hardware, allowing developers to focus on problem-solving.
+General-purpose:
+Python can be used for a wide range of applications, including web development, data science, machine learning, automation, scientific computing, and more.
+Dynamic Typing:
+Variable types are determined automatically at runtime, providing flexibility in coding.
+Extensive Standard Library:
+Python boasts a vast collection of pre-written modules and packages that offer functionalities for various tasks, reducing the need to write code from scratch.
+Large and Active Community:
+Python has a global community of developers who contribute to its development, provide support, and create resources.
+Cross-platform compatibility:
+Python runs on various operating systems, including Windows, macOS, and Linux.
+Open-source:
+Python is freely usable and distributable, even for commercial purposes, under an OSI-approved open-source license.
+Full Form Of Python - JustAcademy
+11 Apr 2024 — Python stands for “PYTHON” is not an acronym. The name Python is derived from the British comedy group Monty Python, an...
+
+JustAcademy
